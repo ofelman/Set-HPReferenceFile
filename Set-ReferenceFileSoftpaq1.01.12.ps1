@@ -76,7 +76,7 @@ param(
     [Parameter( Mandatory = $false )] 
     $ReplaceSoftpaq,
     [Parameter( Mandatory = $false )] 
-    [string]$ToSoftpaq,
+    $ToSoftpaq,
     [Parameter( Mandatory = $false )] 
     $ReferenceFile,
     [Parameter( Mandatory = $false )] 
