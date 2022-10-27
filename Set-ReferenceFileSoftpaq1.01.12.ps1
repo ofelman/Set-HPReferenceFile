@@ -84,7 +84,7 @@ param(
     [Parameter( Mandatory = $false )] 
     $ListByCategory,
     [Parameter( Mandatory = $false )] 
-    [switch]$ListSuperseded
+    $ListSuperseded
 ) # param
 
 $ReFileVersion = '1.01.12'
