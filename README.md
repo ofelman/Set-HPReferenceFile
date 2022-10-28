@@ -4,7 +4,9 @@ This script is designed to parse a Reference File (as used by HP CMSL and HP Ima
 
 Version 1.01.12 October 27, 2022
 Fix bug for selecting replacing Softpaq that had no Superseded entry in node
+
 Version 1.01.13 October 28, 2022
 Fixes handling for -ReferenceFile code
+
 Version 1.02.00 October 28, 2022
 Fixes handling for -ReferenceFile code to no longer create a cache subfolder for this case
